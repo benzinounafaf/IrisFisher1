@@ -2,7 +2,7 @@
 
 Firstly you should have Python version 2.7 and Yarn installed 
 
-== Features
+Features
 
 === Installed apps :
 
