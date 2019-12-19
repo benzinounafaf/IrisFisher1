@@ -1,0 +1,4 @@
+pandas
+django-webpack-loader
+djangorestframework
+django-cors-headers
