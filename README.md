@@ -123,7 +123,7 @@ Installed apps :
 
 Requirements :
 
-requirements.txt
+	requirements.txt
 
 Configured Settings :
 
@@ -135,7 +135,7 @@ Setup a local development environment :
  
 
 Clone prject from :
-
+	https://github.com/{{account_id}}/IrisFisher1.git
 
 Create virtual environment :
 
